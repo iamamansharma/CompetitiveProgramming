@@ -1,0 +1,2 @@
+Binary Exponentiation:
+Raising a to the power of n is expressed naively as multiplication by a done n−1 times: an=a⋅a⋅…⋅a. However, this approach is not practical for large a or n.
